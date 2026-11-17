@@ -104,3 +104,12 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+/ProyectoFinal_Maria_Soriano/Packages/com.ptc.vuforia.engine-11.4.4.tgz
+
+# Configuracion privada de Vuforia
+/ProyectoFinal_Maria_Soriano/Assets/Resources/VuforiaConfiguration.asset
+/ProyectoFinal_Maria_Soriano/Assets/Resources/VuforiaConfiguration.asset.meta
+
+# Archivos de macOS
+.DS_Store
